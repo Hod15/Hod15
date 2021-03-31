@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Hod15
-- 👀 I’m interested in web developpement, ML & AI
+- 👀 I’m interested in web developpement & AI
+- 🕶 I'm a PHP dev | Python Dev and Js lover
 - 🌱 I’m currently learning NodeJS and ReactJs
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me :
