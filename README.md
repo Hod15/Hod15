@@ -34,11 +34,11 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Github stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josiashod&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josiashod&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josiashod&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josiashod&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josiashod&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josiashod&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josiashod&theme=solarized) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josiashod&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josiashod&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josiashod&theme=solarized)
 
 
 <br>
