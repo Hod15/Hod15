@@ -44,8 +44,16 @@ I am undergraduate computer science student passionate in learning and working o
 <br>
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=josiashod&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=josiashod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<p align="center">
+
+  <a href="https://metrics.lecoq.io/blacky-yg">
+    <img align="center" src="https://metrics.lecoq.io/josiashod" />
+  </a>
+
+</p>
 
 <br>
 
