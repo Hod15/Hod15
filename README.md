@@ -47,16 +47,6 @@ I am undergraduate computer science student passionate in learning and working o
 [![trophy](https://github-profile-trophy.vercel.app/?username=josiashod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
-
-  <a href="https://metrics.lecoq.io/blacky-yg">
-    <img align="center" src="https://metrics.lecoq.io/josiashod" />
-  </a>
-
-</p>
-
-<br>
-
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/josiashod)
@@ -100,3 +90,8 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josiashod)  
+
+---
+![about me](https://metrics.lecoq.io/josiashod)  
+
+<br>
