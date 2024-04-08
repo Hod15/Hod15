@@ -89,8 +89,8 @@ I am undergraduate computer science student passionate in learning and working o
 
 <br>
 
-[//]:  ### Contribution graph
-[//]:  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josiashod)  */
+[//]: # ### Contribution graph
+[//]: #  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josiashod)  */
 
 ---
 ![about me](https://metrics.lecoq.io/josiashod)  
