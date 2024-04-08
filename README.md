@@ -65,7 +65,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[//]: ![Conan Center](https://img.shields.io/conan/v/:packageName)
+![C++](https://img.shields.io/badge/c-plus-plus?style=for-the-badge&logo=c-plus-plus&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -89,8 +89,8 @@ I am undergraduate computer science student passionate in learning and working o
 
 <br>
 
-[//]: # ### Contribution graph
-[//]: #  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josiashod)  */
+<!--- ### Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josiashod)  --->
 
 ---
 ![about me](https://metrics.lecoq.io/josiashod)  
