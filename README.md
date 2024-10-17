@@ -13,8 +13,6 @@ I am undergraduate computer science student passionate in learning and working o
 - 👯 I’m looking to collaborate on open source projects which are relative to UI, javascript.  
 - 🤔 I’m looking for help with any of my public repositories. If you have improvements to do, don't hesitate
 - 💬 Ask me questions about CS fundamentals, OS theories, web development and system administration   
-- 😄 Pronouns: ...
-
 <br>
 
 ### Musical vibes
@@ -45,6 +43,8 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=josiashod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![codewars badges]("https://www.codewars.com/users/josiashod/badges/large")
 
 
 ### Social links
