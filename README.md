@@ -44,7 +44,7 @@ I am undergraduate computer science student passionate in learning and working o
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=josiashod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![codewars badges]("https://www.codewars.com/users/josiashod/badges/large")
+![codewars badges](https://www.codewars.com/users/josiashod/badges/large)
 
 
 ### Social links
